@@ -19,4 +19,4 @@ while True:
         print (f"{guess} is right!")
         break
 
-    print (f"This round took you {guesses}")g
+    print (f"This round took you {guesses}")
