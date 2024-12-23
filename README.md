@@ -1,1 +1,13 @@
-Hello! Welcome to the first version of my new game, Nova Number Guessing. This is a cool game I made in Python, it's probably already out there but I decided to make one that I could keep updating and bug-fixing. Here's some good-to-know info- 1- The guessing is from numbers between 1-25. (I'll probably make the number distance larger soon) 2- The game will go on for infinity.  3- This will not appear in a window. It is in the IDE running platform, in the Game.py python doc (I would use pycharm) 4- When you are done guessing, a prompt will appear to think again. Thanks
+### _**NOVA NUMBERS GUESSING README**_
+Hello! Welcome to Nova Number Guessing, a collection of number games, tools, and programs to make your life more efficient.
+Here are the 4 programs up on the repo right now:
+
+1 game.py is the file for the Classic Number Guessing Game, where you guess the correct number, and it gets harder as you go on!!!!!
+2 numbertools.zip (extract it first) contains:
+    randomnumgen.py is the file for the normal 1-100 number generator. All info is in the program.
+    randomnumgenx2.py is the file for the 1-100 generator, except it is only even numbers and the step is 2. All info is in the program.
+    largerandomnumgen.py is the file consisting of the program where you can order a very high number. The number range varies from 1-10,000. All info is in the program.
+
+ENJOY USING MY PYTHON PROGRAMS! IM SOON GOING TO ROLL OUT SOME RUBY PROGRAMS ASWELL!!
+  
+
