@@ -8,6 +8,6 @@ Here are the 4 programs up on the repo right now:
     randomnumgenx2.py is the file for the 1-100 generator, except it is only even numbers and the step is 2. All info is in the program.
     largerandomnumgen.py is the file consisting of the program where you can order a very high number. The number range varies from 1-10,000. All info is in the program.
 
-ENJOY USING MY PYTHON PROGRAMS! IM SOON GOING TO ROLL OUT SOME RUBY PROGRAMS ASWELL!!
+ENJOY USING MY PYTHON PROGRAMS! IM SOON GOING TO ROLL OUT SOME NEW PROGRAMS ASWELL!!
   
 
