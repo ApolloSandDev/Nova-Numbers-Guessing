@@ -9,8 +9,6 @@ Released Dec 24, 2024
 
 4- Made play again system that's not annoying! Because you need to play the next 2 levels.
 
-MERRY CHRISTMAS!!!!!!!!!!111!!!
-I'll be taking a break due to Christmas and I'll see you next year!! _**I May Have Some Minor Updates after Christmas**_
 
 Nova Number Guessing V2.0
 Released Dec 22, 2024
@@ -19,4 +17,4 @@ Released Dec 22, 2024
 
 2- Enhanced words and added details
 
-3- Fixed some bug issues. I'm working on 2.1 And it will be big!
+3- Fixed some bug issues. I'm working on 2.1 And it will be big! 
