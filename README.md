@@ -6,11 +6,11 @@ Here are the 5 programs up on the repo right now:
 
 2 **numbertools.zip** (extract it first) contains:
 
-    **randomnumgen.py** is the file for the normal 1-100 number generator. All the info is in the program.
+   **randomnumgen.py** is the file for the normal 1-100 number generator. All the info is in the program.
     
-    **randomnumgenx2.py** is the 1-100 generator file, except it is only even numbers and the step is 2. All the info is in the program.
+   **randomnumgenx2.py** is the 1-100 generator file, except it is only even numbers and the step is 2. All the info is in the program.
     
-    **largerandomnumgen.py** is the file containing the program for ordering a very high number. The number range varies from 1 to 10,000. All information is in the program.
+   **largerandomnumgen.py** is the file containing the program for ordering a very high number. The number range varies from 1 to 10,000. All information is in the program.
 
 3 **simplecalc.py** is the file for the normal 4-operation positive number calculator.
 
